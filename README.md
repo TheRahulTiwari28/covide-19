@@ -1,3 +1,2 @@
 # covide-19
-
-covide-19.netlify.app
+https://covide-19.netlify.app/
